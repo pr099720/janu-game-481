@@ -1,2 +1,18 @@
-body { margin: 0; font-family: sans-serif; background: #111; color: #fff; display: flex; align-items: center; justify-content: center; height: 100vh; flex-direction: column; }
-h1 { font-size: 2rem; }
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  background-color: #f0f0f0;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}
+button {
+  padding: 10px 20px;
+  background-color: #008cff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
